@@ -12,3 +12,4 @@ line 7: Compress /var/www/html/ recursively
 line9: Create final compressed file with the date as the name
 line 14: scp files to remote host
 line 19 && 20: Remove waste backup files
+
